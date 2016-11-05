@@ -1,5 +1,3 @@
-##Open Bracket Corporate Challenge
+Google VR Health App
 
-We are asking that the Corporation Select the Google Card Board Challenge, but you are welcome to attempt any of the problem sets, included in this repo.
-
-When you are ready to get started, simply fork the repository , and enjoy coding!
+[Hospital Quest Chapter 1](https://docs.google.com/presentation/d/1dke-4VY-17SP3eSDp_XGVdm7rVGfZc7yb8HYSbPbdQg/edit?usp=sharing)
