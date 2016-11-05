@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="New Unity Project.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CubeClick.cs">
+    <Files>
+      <File FileName="Assets\CubeClick.cs" Line="69" Column="4" />
+      <File FileName="Assets\Message.cs" Line="14" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
